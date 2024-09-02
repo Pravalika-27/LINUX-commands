@@ -83,6 +83,22 @@ systemctl ⚙️ → Control the systemd system and service manager.
 
 Example: systemctl status service (checks the status of a service)
 
+~systemctl start-starts the process
+
+~systemctl enable-enables the process
+
+Touch(creates any empty file)
+
+echo(prints what we write)
+
+history |grep(shows history)c
+
+chmod(change and give permissions)
+
+yum-yellowdog updater modifier(package manager in linux)
+
+tac(to reverse content)
+
 Mastering these commands will significantly enhance your efficiency and effectiveness in managing cloud environments. Happy learning! 🚀
 
 Hashtags: #Linux #CloudEngineering #DevOps #SysAdmin #TechSkills #IT #CloudComputing #LinuxCommands #TechTips #Learning #CareerGrowth #ITSkills #Cloud #Engineering #TechCommunity
